@@ -1,0 +1,61 @@
+@media screen and (max-width: 1300px){
+    .topnav a{
+        display: none;
+    }
+    .topnav a.icon{
+        float: right;
+        margin-top: -17px;
+        display: block;
+        color: #d7d7e3;
+        font-size: 25px;
+    }
+    nav{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1200px){
+    nav{
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width: 650px){
+    .nadpis{
+        display: none;
+    }
+    .view2{
+        display: none;
+    }
+    .third_block{
+        display: block;
+    }
+    .h{
+        display: block;
+    }
+    .block{
+        display: none;
+    }
+    .bot1 a{
+        font-size: 15px;
+    }
+    .ft{
+        display: block;
+    }
+    .inp{
+        display: none;
+    }
+    .few{
+        display: block;
+    }
+
+}
+@media screen and (max-width: 870px){
+    .nadpis{
+        display: none;
+    }
+    .cor .image{
+        display: none;
+    }
+    .h{
+        display: block;
+    }
+}

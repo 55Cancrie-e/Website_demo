@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Colaborate';
+    src: local('Colaborate-Thin'), url('colaborate-thin.woff2') format('woff2'), url('colaborate-thin.woff') format('woff'), url('colaborate-thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Colaborate';
+    src: local('Colaborate-Light'), url('colaborate-light.woff2') format('woff2'), url('colaborate-light.woff') format('woff'), url('colaborate-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Colaborate';
+    src: local('Colaborate-Regular'), url('colaborate-regular.woff2') format('woff2'), url('colaborate-regular.woff') format('woff'), url('colaborate-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Colaborate';
+    src: local('Colaborate-Medium'), url('colaborate-medium.woff2') format('woff2'), url('colaborate-medium.woff') format('woff'), url('colaborate-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Colaborate';
+    src: local('Colaborate-Bold'), url('colaborate-bold.woff2') format('woff2'), url('colaborate-bold.woff') format('woff'), url('colaborate-bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
